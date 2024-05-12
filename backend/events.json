@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Flower Arrangements","image":"https://images.unsplash.com/photo-1562690868-60bbe7293e94?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D","date":"2024-05-17","description":"Suitable for flower lovers","id":"dd095e1f-b3a2-4f8d-a196-9e15c205720f"},{"title":"Photography","image":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D","date":"2024-05-21","description":"gah","id":"c9b4e2ca-b8e7-4712-87b7-2c703de1e2a6"}],"users":[{"email":"udosenfelicia@gmail.com","password":"$2a$12$UbbjjT0hI.r3J1Nw3Qio0uZfwB5087e5ZGumv1XpGSUHiheikkkPa","id":"bbb46f0f-c682-43be-bba4-1af77ee7633f"},{"email":"felici@gmail.com","password":"$2a$12$yy1RsFGv3B5TP.m7f02nj.ksNVUu2VClk4D8uZ1QsUSynMARB8Q0C","id":"3fad8978-5f76-41cf-9085-ace4e9bb8fb5"},{"email":"skillshun@gmail.com","password":"$2a$12$ORuiMo7depPUDWnK42qm4eXF8eFs7Reb/yO3VryxQ/Tw1gHMbHzwq","id":"e80ad183-3cc8-43d1-b3e0-23cef39693e2"}]}
